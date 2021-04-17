@@ -10,8 +10,10 @@ de cambios
 
 ¿Cuáles son los beneficios?
 
+Permite mantener un histórico de todo el desarrollo del proyecto.
 
-
+Incluye los diferentes cambios que estoy haciendo durante mi desarrollo.
 
 
 ¿Qué tipos de control de versiones existen?
+
