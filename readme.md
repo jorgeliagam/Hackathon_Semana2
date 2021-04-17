@@ -15,4 +15,4 @@ incluye los diferentes cambios que estoy haciendo durante mi desarrollo.
 
 
 ¿Qué tipos de control de versiones existen?
-
+El (Git directory), el directorio de trabajo (working directory), y el área de preparación (staging area)
